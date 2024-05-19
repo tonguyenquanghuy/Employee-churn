@@ -8,7 +8,7 @@ Employee churn poses multiple organisational challenges. Frequent employee turno
 - Proactive retention: understanding churn drivers enables proactive measures to enhance employee satisfaction and retain talent.
 
 # PRIMARY AIM
-Construct a model to predict employee departure likelihood utilising various predictors
+Construct a model to predict employee departure likelihood utilising various predictors.
 
 # HYPOTHESIS
 Employee satisfaction, salary, and average monthly hours are anticipated to be significant indicators of turnover.
